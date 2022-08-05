@@ -1,0 +1,3 @@
+*.meta
+!/base/ui/UIManager.ts.meta
+*.py

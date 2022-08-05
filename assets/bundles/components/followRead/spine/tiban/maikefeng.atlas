@@ -1,0 +1,13 @@
+
+maikefeng.png
+size: 325,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiban
+  rotate: false
+  xy: 2, 2
+  size: 321, 321
+  orig: 321, 321
+  offset: 0, 0
+  index: -1

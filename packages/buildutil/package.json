@@ -1,0 +1,15 @@
+{
+  "name": "buildutil",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "扩展/不使用etc2": {
+      "message": "buildutil:noetc2"
+    }
+  },
+  "dependencies": {
+    "zip-folder": "^1.0.0"
+  }
+}

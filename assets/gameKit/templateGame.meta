@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "34a64e60-6350-43f1-8ca1-b55f5da8d019",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "templateGame",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

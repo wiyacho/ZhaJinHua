@@ -1,0 +1,55 @@
+
+jingyu.png
+size: 256,836
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+langhua1
+  rotate: false
+  xy: 2, 349
+  size: 249, 153
+  orig: 249, 153
+  offset: 0, 0
+  index: -1
+langhua2
+  rotate: false
+  xy: 2, 4
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: true
+  xy: 135, 2
+  size: 90, 109
+  orig: 90, 109
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: true
+  xy: 135, 94
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 184
+  size: 228, 163
+  orig: 228, 163
+  offset: 0, 0
+  index: -1
+touying
+  rotate: true
+  xy: 2, 504
+  size: 328, 222
+  orig: 328, 222
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 2, 61
+  size: 121, 131
+  orig: 121, 131
+  offset: 0, 0
+  index: -1

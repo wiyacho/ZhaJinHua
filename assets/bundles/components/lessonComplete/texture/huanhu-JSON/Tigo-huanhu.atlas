@@ -1,0 +1,216 @@
+
+Tigo-huanhu.png
+size: 861,861
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 13
+  size: 47, 101
+  orig: 49, 103
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 784, 348
+  size: 59, 108
+  orig: 61, 110
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 647, 59
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 731, 576
+  size: 123, 147
+  orig: 125, 149
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 535, 140
+  size: 110, 110
+  orig: 112, 112
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 765, 144
+  size: 102, 81
+  orig: 104, 83
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 658, 338
+  size: 124, 118
+  orig: 126, 120
+  offset: 1, 1
+  index: -1
+T-bizi
+  rotate: false
+  xy: 658, 265
+  size: 130, 71
+  orig: 130, 71
+  offset: 0, 0
+  index: -1
+T-duzi
+  rotate: false
+  xy: 731, 725
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+T-erduo -L
+  rotate: false
+  xy: 533, 34
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+T-erduo -R
+  rotate: false
+  xy: 658, 159
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+T-huawen-1
+  rotate: false
+  xy: 105, 16
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+T-huawen-L
+  rotate: false
+  xy: 790, 248
+  size: 69, 98
+  orig: 69, 98
+  offset: 0, 0
+  index: -1
+T-huawen-R
+  rotate: true
+  xy: 747, 71
+  size: 71, 97
+  orig: 71, 97
+  offset: 0, 0
+  index: -1
+T-huzi
+  rotate: false
+  xy: 2, 239
+  size: 531, 214
+  orig: 531, 214
+  offset: 0, 0
+  index: -1
+T-meimao-L
+  rotate: false
+  xy: 640, 35
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+T-meimao-R
+  rotate: false
+  xy: 690, 35
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+T-shenti
+  rotate: false
+  xy: 459, 596
+  size: 270, 263
+  orig: 270, 263
+  offset: 0, 0
+  index: -1
+T-shou-L
+  rotate: false
+  xy: 2, 62
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+T-shou-R
+  rotate: false
+  xy: 171, 62
+  size: 166, 175
+  orig: 166, 175
+  offset: 0, 0
+  index: -1
+T-shouzhi-1
+  rotate: false
+  xy: 775, 47
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+T-shouzhi-2
+  rotate: false
+  xy: 747, 47
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+T-tou
+  rotate: false
+  xy: 2, 455
+  size: 455, 404
+  orig: 455, 404
+  offset: 0, 0
+  index: -1
+T-tui-L
+  rotate: false
+  xy: 535, 252
+  size: 121, 214
+  orig: 121, 214
+  offset: 0, 0
+  index: -1
+T-tui-R
+  rotate: true
+  xy: 459, 468
+  size: 126, 210
+  orig: 126, 210
+  offset: 0, 0
+  index: -1
+T-weiba
+  rotate: false
+  xy: 339, 123
+  size: 191, 114
+  orig: 191, 114
+  offset: 0, 0
+  index: -1
+T-yanjing-L
+  rotate: true
+  xy: 257, 17
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+T-yanjing-R
+  rotate: true
+  xy: 190, 15
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+T-zui
+  rotate: false
+  xy: 339, 34
+  size: 192, 87
+  orig: 192, 87
+  offset: 0, 0
+  index: -1
+muzhi
+  rotate: true
+  xy: 671, 458
+  size: 116, 179
+  orig: 116, 179
+  offset: 0, 0
+  index: -1

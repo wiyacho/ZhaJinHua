@@ -1,0 +1,55 @@
+
+sahua.png
+size: 297,297
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 239, 194
+  size: 47, 101
+  orig: 49, 103
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 232, 75
+  size: 59, 108
+  orig: 61, 110
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 128, 85
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 148
+  size: 123, 147
+  orig: 125, 149
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 127, 185
+  size: 110, 110
+  orig: 112, 112
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 128, 2
+  size: 102, 81
+  orig: 104, 83
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 2, 28
+  size: 124, 118
+  orig: 126, 120
+  offset: 1, 1
+  index: -1

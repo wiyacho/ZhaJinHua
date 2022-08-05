@@ -1,0 +1,20 @@
+
+tiban.png
+size: 910,910
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiban
+  rotate: false
+  xy: 486, 358
+  size: 422, 550
+  orig: 425, 554
+  offset: 1, 2
+  index: -1
+ban
+  rotate: false
+  xy: 2, 285
+  size: 482, 623
+  orig: 484, 625
+  offset: 1, 1
+  index: -1

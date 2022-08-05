@@ -1,0 +1,104 @@
+
+yuncai.png
+size: 1564,692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yun1
+  rotate: false
+  xy: 2, 464
+  size: 427, 226
+  orig: 439, 236
+  offset: 6, 5
+  index: -1
+yun1-1
+  rotate: false
+  xy: 1355, 25
+  size: 162, 92
+  orig: 164, 95
+  offset: 1, 1
+  index: -1
+yun2
+  rotate: false
+  xy: 2, 233
+  size: 419, 229
+  orig: 427, 237
+  offset: 4, 4
+  index: -1
+yun2-1
+  rotate: false
+  xy: 1181, 232
+  size: 363, 228
+  orig: 375, 237
+  offset: 6, 5
+  index: -1
+yun3
+  rotate: false
+  xy: 1280, 541
+  size: 197, 149
+  orig: 201, 153
+  offset: 2, 2
+  index: -1
+yun3-1
+  rotate: false
+  xy: 2, 3
+  size: 417, 228
+  orig: 426, 237
+  offset: 5, 5
+  index: -1
+yun4
+  rotate: false
+  xy: 1156, 81
+  size: 197, 149
+  orig: 201, 153
+  offset: 2, 2
+  index: -1
+yun4-1
+  rotate: false
+  xy: 423, 26
+  size: 366, 211
+  orig: 376, 219
+  offset: 5, 5
+  index: -1
+yun5
+  rotate: false
+  xy: 808, 232
+  size: 371, 228
+  orig: 375, 236
+  offset: 4, 4
+  index: -1
+yun5-1
+  rotate: false
+  xy: 865, 462
+  size: 413, 228
+  orig: 417, 235
+  offset: 0, 3
+  index: -1
+yun6
+  rotate: false
+  xy: 1355, 119
+  size: 206, 111
+  orig: 209, 116
+  offset: 1, 3
+  index: -1
+yun6-1
+  rotate: false
+  xy: 431, 239
+  size: 375, 228
+  orig: 381, 237
+  offset: 3, 5
+  index: -1
+yun7
+  rotate: false
+  xy: 431, 469
+  size: 432, 221
+  orig: 436, 229
+  offset: 2, 4
+  index: -1
+yun7-1
+  rotate: false
+  xy: 791, 2
+  size: 363, 228
+  orig: 375, 237
+  offset: 6, 5
+  index: -1

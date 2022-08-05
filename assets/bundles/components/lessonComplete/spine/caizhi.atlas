@@ -1,0 +1,48 @@
+
+caizhi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 204, 63
+  size: 176, 179
+  orig: 186, 192
+  offset: 5, 7
+  index: -1
+caizhisuipian
+  rotate: false
+  xy: 2, 23
+  size: 200, 219
+  orig: 256, 256
+  offset: 35, 15
+  index: -1
+sidai_hong2
+  rotate: true
+  xy: 204, 2
+  size: 59, 108
+  orig: 61, 110
+  offset: 1, 1
+  index: -1
+sidai_huang2
+  rotate: false
+  xy: 422, 36
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+sidai_lv
+  rotate: true
+  xy: 314, 28
+  size: 33, 106
+  orig: 33, 106
+  offset: 0, 0
+  index: -1
+xingxing
+  rotate: true
+  xy: 382, 118
+  size: 124, 118
+  orig: 126, 120
+  offset: 1, 1
+  index: -1

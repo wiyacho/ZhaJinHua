@@ -1,0 +1,216 @@
+{
+    "list": [
+        {
+            "id": 11,
+            "main": "redSantaClaus",
+            "name": "圣诞老人",
+            "assets": [
+                "common",
+                "redSantaClaus"
+            ],
+            "params": {}
+        },
+        {
+            "id": 13,
+            "main": "quizGameRed",
+            "assets": [
+                "common",
+                "templateGame",
+                "quizGameRed"
+            ],
+            "params": {}
+        },
+        {
+            "id": 2,
+            "main": "SweepLeaves",
+            "name": "扫叶子",
+            "assets": [
+                "common",
+                "SweepLeaves"
+            ],
+            "params": {}
+        },
+        {
+            "id": 4,
+            "main": "rocketProject",
+            "name": "火箭",
+            "assets": [
+                "common",
+                "rocketProject"
+            ],
+            "params": {}
+        },
+        {
+            "id": 21,
+            "main": "paintingColor",
+            "name": "涂颜色",
+            "assets": [
+                "common",
+                "paintingColor"
+            ],
+            "params": {}
+        },
+        {
+            "id": 23,
+            "main": "quizGameBlue",
+            "assets": [
+                "common",
+                "templateGame",
+                "quizGameBlue"
+            ],
+            "params": {}
+        },
+        {
+            "id": 16,
+            "main": "Bubble",
+            "name": "气球",
+            "assets": [
+                "common",
+                "Bubble"
+            ],
+            "params": {}
+        },
+        {
+            "id": 18,
+            "main": "quziGamePanda",
+            "name": "熊猫大厨",
+            "assets": [
+                "common",
+                "templateGame",
+                "quziGamePanda"
+            ],
+            "params": {}
+        },
+        {
+            "id": 6,
+            "main": "game_lesson_5",
+            "name": "侠客大闯关",
+            "assets": [
+                "game_lesson_5"
+            ],
+            "params": {}
+        },
+        {
+            "name": "星球回声",
+            "main": "recordStarEcho",
+            "assets": [
+                "common",
+                "recordRollerCoaster",
+                "recordStarEcho"
+            ],
+            "params": {}
+        },
+        {
+            "name": "L1day5大测",
+            "main": "day5BigTest",
+            "assets": [
+                "common",
+                "day5BigTest",
+                "prizeClaw",
+                "playFootball",
+                "train"
+            ],
+            "params": {}
+        },
+        {
+            "name": "刮刮乐-红黄蓝",
+            "main": "guagualev1",
+            "assets": [
+                "common",
+                "guaguale_common",
+                "guagualev1"
+            ],
+            "params": {}
+        },
+        {
+            "name": "刮刮乐-粉紫绿",
+            "main": "guagualev2",
+            "assets": [
+                "common",
+                "guaguale_common",
+                "guagualev2"
+            ],
+            "params": {}
+        },
+        {
+            "name": "跳冰块",
+            "main": "jump_block_ice",
+            "assets": [
+                "common",
+                "jump_block",
+                "jump_block_ice"
+            ],
+            "params": {}
+        },
+        {
+            "name": "跳云朵",
+            "main": "jump_block_cloud",
+            "assets": [
+                "common",
+                "jump_block",
+                "jump_block_cloud"
+            ],
+            "params": {}
+        },
+        {
+            "name": "星球过山车",
+            "main": "rollerCoasterXingkong",
+            "assets": [
+                "common",
+                "recordRollerCoaster",
+                "rollerCoasterXingkong"
+            ],
+            "params": {}
+        },
+        {
+            "name": "宇宙跑酷",
+            "main": "input_gamePaoku",
+            "assets": [
+                "common",
+                "templateGame",
+                "input_gamePaoku"
+            ],
+            "params": {}
+        },
+        {
+            "name": "糖果跑酷",
+            "main": "input_d3_2_gamePaoku",
+            "assets": [
+                "common",
+                "templateGame",
+                "input_d3_2_gamePaoku"
+            ],
+            "params": {}
+        },
+        {
+            "name": "棒棒糖回声",
+            "main": "recordCandyEcho",
+            "assets": [
+                "common",
+                "recordRollerCoaster",
+                "recordCandyEcho"
+            ],
+            "params": {}
+        },
+        {
+            "name": "打怪兽",
+            "main": "testHitMonster",
+            "assets": [
+                "common",
+                "testMonsterBase",
+                "testHitMonster"
+            ],
+            "params": {}
+        },
+        {
+            "name": "糖果怪兽",
+            "main": "testCandyMonster",
+            "assets": [
+                "common",
+                "testMonsterBase",
+                "testCandyMonster"
+            ],
+            "params": {}
+        }
+    ]
+}

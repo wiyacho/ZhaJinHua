@@ -1,0 +1,146 @@
+
+yanwu.png
+size: 921,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10001
+  rotate: true
+  xy: 509, 640
+  size: 149, 142
+  orig: 350, 280
+  offset: 98, 95
+  index: -1
+10002
+  rotate: true
+  xy: 460, 58
+  size: 189, 185
+  orig: 350, 280
+  offset: 81, 68
+  index: -1
+10003
+  rotate: false
+  xy: 659, 837
+  size: 252, 216
+  orig: 350, 280
+  offset: 48, 41
+  index: -1
+10004
+  rotate: false
+  xy: 2, 19
+  size: 278, 236
+  orig: 350, 280
+  offset: 38, 28
+  index: -1
+10005
+  rotate: false
+  xy: 2, 257
+  size: 299, 255
+  orig: 350, 280
+  offset: 25, 19
+  index: -1
+10006
+  rotate: false
+  xy: 342, 791
+  size: 315, 262
+  orig: 350, 280
+  offset: 16, 12
+  index: -1
+10007
+  rotate: false
+  xy: 2, 514
+  size: 328, 266
+  orig: 350, 280
+  offset: 11, 9
+  index: -1
+10008
+  rotate: false
+  xy: 2, 782
+  size: 338, 271
+  orig: 350, 280
+  offset: 9, 5
+  index: -1
+y1
+  rotate: true
+  xy: 282, 3
+  size: 250, 176
+  orig: 266, 191
+  offset: 11, 4
+  index: -1
+y2
+  rotate: false
+  xy: 659, 664
+  size: 253, 171
+  orig: 266, 191
+  offset: 10, 7
+  index: -1
+y3
+  rotate: true
+  xy: 303, 255
+  size: 257, 166
+  orig: 266, 191
+  offset: 7, 12
+  index: -1
+y4
+  rotate: true
+  xy: 471, 249
+  size: 263, 171
+  orig: 266, 191
+  offset: 3, 9
+  index: -1
+y5
+  rotate: true
+  xy: 332, 514
+  size: 266, 175
+  orig: 266, 191
+  offset: 0, 8
+  index: -1
+y6
+  rotate: false
+  xy: 653, 489
+  size: 266, 173
+  orig: 266, 191
+  offset: 0, 12
+  index: -1
+y7
+  rotate: false
+  xy: 647, 156
+  size: 257, 157
+  orig: 266, 191
+  offset: 0, 22
+  index: -1
+y8
+  rotate: false
+  xy: 644, 315
+  size: 260, 172
+  orig: 266, 191
+  offset: 0, 9
+  index: -1
+yw1
+  rotate: false
+  xy: 760, 74
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+yw2
+  rotate: false
+  xy: 647, 72
+  size: 111, 82
+  orig: 111, 82
+  offset: 0, 0
+  index: -1
+yw4
+  rotate: false
+  xy: 509, 543
+  size: 112, 95
+  orig: 112, 95
+  offset: 0, 0
+  index: -1
+yw5
+  rotate: false
+  xy: 647, 2
+  size: 83, 68
+  orig: 83, 68
+  offset: 0, 0
+  index: -1

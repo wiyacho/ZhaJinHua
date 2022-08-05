@@ -1,0 +1,12 @@
+{
+    "name": "imageext",
+    "version": "0.0.1",
+    "description": "图片黑边处理",
+    "author": "Cocos Creator",
+    "main": "main.js",
+    "main-menu": {
+        "扩展/黑边处理": {
+            "message": "ImageExt:deal"
+        }
+    }
+}

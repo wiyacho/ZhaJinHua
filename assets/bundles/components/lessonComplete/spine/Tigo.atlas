@@ -1,0 +1,279 @@
+
+Tigo.png
+size: 986,986
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ce-T-bizi 2
+  rotate: true
+  xy: 2, 118
+  size: 341, 184
+  orig: 343, 186
+  offset: 1, 1
+  index: -1
+Ce-T-meimao
+  rotate: true
+  xy: 519, 739
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+Ce-T-shenti
+  rotate: true
+  xy: 291, 611
+  size: 157, 226
+  orig: 157, 226
+  offset: 0, 0
+  index: -1
+Ce-T-shou-1
+  rotate: true
+  xy: 815, 41
+  size: 69, 138
+  orig: 69, 138
+  offset: 0, 0
+  index: -1
+Ce-T-tui
+  rotate: false
+  xy: 638, 72
+  size: 87, 110
+  orig: 87, 110
+  offset: 0, 0
+  index: -1
+Ce-T-tui-2
+  rotate: false
+  xy: 638, 72
+  size: 87, 110
+  orig: 87, 110
+  offset: 0, 0
+  index: -1
+Ce-T-weiba
+  rotate: true
+  xy: 188, 305
+  size: 154, 92
+  orig: 154, 92
+  offset: 0, 0
+  index: -1
+Ce-T-yanjing
+  rotate: true
+  xy: 444, 531
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+Ce-T-zui
+  rotate: false
+  xy: 732, 354
+  size: 77, 50
+  orig: 77, 50
+  offset: 0, 0
+  index: -1
+T-bizi
+  rotate: true
+  xy: 489, 132
+  size: 130, 71
+  orig: 130, 71
+  offset: 0, 0
+  index: -1
+T-duzi
+  rotate: true
+  xy: 277, 6
+  size: 128, 134
+  orig: 128, 134
+  offset: 0, 0
+  index: -1
+T-erduo -L
+  rotate: false
+  xy: 2, 12
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+T-erduo -R
+  rotate: true
+  xy: 865, 250
+  size: 105, 104
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+T-huawen-1
+  rotate: false
+  xy: 444, 565
+  size: 83, 44
+  orig: 83, 44
+  offset: 0, 0
+  index: -1
+T-huawen-L
+  rotate: false
+  xy: 413, 36
+  size: 69, 98
+  orig: 69, 98
+  offset: 0, 0
+  index: -1
+T-huawen-R
+  rotate: false
+  xy: 109, 19
+  size: 71, 97
+  orig: 71, 97
+  offset: 0, 0
+  index: -1
+T-huzi
+  rotate: false
+  xy: 2, 770
+  size: 531, 214
+  orig: 531, 214
+  offset: 0, 0
+  index: -1
+T-meimao-L
+  rotate: false
+  xy: 936, 382
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+T-meimao-R
+  rotate: false
+  xy: 936, 358
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+T-shenti
+  rotate: false
+  xy: 291, 264
+  size: 270, 263
+  orig: 270, 263
+  offset: 0, 0
+  index: -1
+T-shou-L
+  rotate: false
+  xy: 563, 352
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+T-shou-R
+  rotate: true
+  xy: 563, 184
+  size: 166, 175
+  orig: 166, 175
+  offset: 0, 0
+  index: -1
+T-shouzhi-1
+  rotate: true
+  xy: 484, 77
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+T-shouzhi-2
+  rotate: true
+  xy: 484, 104
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+T-tou
+  rotate: true
+  xy: 535, 529
+  size: 455, 404
+  orig: 455, 404
+  offset: 0, 0
+  index: -1
+T-tui-L
+  rotate: true
+  xy: 732, 406
+  size: 121, 214
+  orig: 121, 214
+  offset: 0, 0
+  index: -1
+T-tui-R
+  rotate: true
+  xy: 277, 136
+  size: 126, 210
+  orig: 126, 210
+  offset: 0, 0
+  index: -1
+T-weiba
+  rotate: false
+  xy: 740, 112
+  size: 191, 114
+  orig: 191, 114
+  offset: 0, 0
+  index: -1
+T-yanjing-L
+  rotate: true
+  xy: 638, 27
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+T-yanjing-R
+  rotate: true
+  xy: 869, 359
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+T-zui
+  rotate: true
+  xy: 188, 111
+  size: 192, 87
+  orig: 192, 87
+  offset: 0, 0
+  index: -1
+erduo-1
+  rotate: false
+  xy: 727, 28
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+erduo-2
+  rotate: true
+  xy: 182, 13
+  size: 96, 85
+  orig: 96, 85
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 492, 536
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+shou-1
+  rotate: true
+  xy: 740, 228
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+shou-2
+  rotate: false
+  xy: 811, 357
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 461
+  size: 307, 287
+  orig: 307, 287
+  offset: 0, 0
+  index: -1
+tui-1
+  rotate: true
+  xy: 291, 531
+  size: 78, 151
+  orig: 78, 151
+  offset: 0, 0
+  index: -1
+tui-2
+  rotate: false
+  xy: 562, 39
+  size: 74, 143
+  orig: 74, 143
+  offset: 0, 0
+  index: -1

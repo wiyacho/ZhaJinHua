@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "b9af65dc-605c-43bb-8efc-80ac08bc70e1",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "video",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

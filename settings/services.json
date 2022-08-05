@@ -1,0 +1,31 @@
+{
+	"game": {
+		"name": "未知游戏",
+		"appid": "UNKNOW"
+	},
+	"configs": [
+		{
+			"appid": "681333157",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": false,
+					"params": {
+						"appid": "681333157",
+						"store_id": "000001",
+						"store_id_platform": "Android",
+						"plugin_version": "1.3.7_2.2.1"
+					}
+				},
+				{
+					"service_id": "351",
+					"enable": false
+				}
+			]
+		},
+		{
+			"appid": "UNKNOW"
+		}
+	],
+	"needExecNative": true
+}

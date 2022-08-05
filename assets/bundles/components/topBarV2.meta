@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "5eedf154-1a37-49ad-8458-ebce6cb26e98",
+  "importer": "folder",
+  "isBundle": false,
+  "bundleName": "topBarV2",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

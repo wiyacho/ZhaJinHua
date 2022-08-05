@@ -1,0 +1,83 @@
+
+fudaihezi.png
+size: 526,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 470
+  size: 266, 54
+  orig: 268, 56
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 244, 305
+  size: 229, 83
+  orig: 229, 83
+  offset: 0, 0
+  index: -1
+fudai
+  rotate: false
+  xy: 317, 96
+  size: 207, 207
+  orig: 209, 209
+  offset: 1, 1
+  index: -1
+fudai-1
+  rotate: true
+  xy: 2, 24
+  size: 111, 93
+  orig: 111, 93
+  offset: 0, 0
+  index: -1
+fudai-2
+  rotate: false
+  xy: 222, 158
+  size: 93, 145
+  orig: 93, 145
+  offset: 0, 0
+  index: -1
+fudai-3
+  rotate: false
+  xy: 283, 17
+  size: 198, 77
+  orig: 200, 79
+  offset: 1, 1
+  index: -1
+hezi
+  rotate: false
+  xy: 270, 390
+  size: 245, 134
+  orig: 247, 136
+  offset: 1, 1
+  index: -1
+k-hezi
+  rotate: false
+  xy: 2, 334
+  size: 240, 134
+  orig: 242, 136
+  offset: 1, 1
+  index: -1
+k-hezi-1
+  rotate: true
+  xy: 97, 30
+  size: 105, 87
+  orig: 107, 89
+  offset: 1, 1
+  index: -1
+k-hezi-2
+  rotate: false
+  xy: 186, 36
+  size: 95, 99
+  orig: 97, 101
+  offset: 1, 1
+  index: -1
+k-hezi-3
+  rotate: false
+  xy: 2, 137
+  size: 218, 195
+  orig: 220, 197
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,71 @@
+{
+    "1000":{
+		"step": 1000,
+		"name":"引导点击主界面课程环节",
+		"style":{
+			"des":{
+				"text":"",
+				"align":"top"
+			},
+			"hint":{
+				"offsetX":-175,
+				"offsetY":0
+			}
+		},
+		"btnNodePosition": {
+			"x": 300,
+			"y": -255
+		},
+		"arrow": false,
+		"block":true,
+		"auto":true,
+		"end": false,
+		"next":1010
+	},
+	"1010":{
+		"step": 1010,
+		"name":"引导滑动",
+		"style":{
+			"des":{
+				"text":"",
+				"align":"0|226"
+			},
+			"hint":{
+				"offsetX":-75,
+				"offsetY":80
+			}
+		},
+		"btnNodePosition": {
+			"x": 300,
+			"y": -255
+		},
+		"arrow": true,
+		"block":true,
+		"auto":true,
+		"end": false,
+		"next":1020
+	},
+	"1020":{
+		"step": 1020,
+		"name":"引导点击绘本和游戏",
+		"style":{
+			"des":{
+				"text":"",
+				"align":"bottom"
+			},
+			"hint":{
+				"offsetX":-70,
+				"offsetY":40
+			}
+		},
+		"btnNodePosition": {
+			"x": 0,
+			"y": -255
+		},
+		"arrow": false,
+		"block":true,
+		"auto":true,
+		"end": true,
+		"next":-1
+	}
+}

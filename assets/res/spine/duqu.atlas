@@ -1,0 +1,76 @@
+
+duqu.png
+size: 132,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A
+  rotate: false
+  xy: 61, 11
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+D
+  rotate: false
+  xy: 2, 2
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 23, 3
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 122, 3
+  size: 7, 27
+  orig: 7, 27
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 44, 5
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 103, 11
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+O
+  rotate: false
+  xy: 82, 11
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+dian1
+  rotate: false
+  xy: 61, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 70, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+dian3
+  rotate: false
+  xy: 79, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1

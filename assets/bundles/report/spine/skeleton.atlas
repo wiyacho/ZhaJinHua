@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 1560,1560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai2222
+  rotate: false
+  xy: 1109, 802
+  size: 279, 246
+  orig: 279, 246
+  offset: 0, 0
+  index: -1
+diandian
+  rotate: true
+  xy: 1109, 1050
+  size: 508, 449
+  orig: 517, 453
+  offset: 2, 2
+  index: -1
+guang
+  rotate: false
+  xy: 2, 475
+  size: 1105, 1083
+  orig: 1172, 1145
+  offset: 30, 31
+  index: -1

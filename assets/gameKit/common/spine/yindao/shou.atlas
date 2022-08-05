@@ -1,0 +1,34 @@
+
+shou.png
+size: 367,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qvan-1
+  rotate: true
+  xy: 276, 2
+  size: 52, 53
+  orig: 54, 55
+  offset: 1, 1
+  index: -1
+qvan-2
+  rotate: false
+  xy: 276, 56
+  size: 89, 90
+  orig: 91, 92
+  offset: 1, 1
+  index: -1
+qvan-3
+  rotate: true
+  xy: 150, 23
+  size: 123, 124
+  orig: 125, 126
+  offset: 1, 1
+  index: -1
+shouzhi
+  rotate: true
+  xy: 2, 2
+  size: 144, 146
+  orig: 144, 146
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+jindutiao.png
+size: 220,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 2, 24
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+huatong
+  rotate: false
+  xy: 147, 160
+  size: 69, 105
+  orig: 69, 105
+  offset: 0, 0
+  index: -1
+kaiguan
+  rotate: false
+  xy: 2, 256
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 30, 207
+  size: 115, 58
+  orig: 115, 58
+  offset: 0, 0
+  index: -1
+lvdeng
+  rotate: false
+  xy: 13, 250
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: false
+  xy: 2, 138
+  size: 138, 67
+  orig: 138, 67
+  offset: 0, 0
+  index: -1
+waiguang
+  rotate: false
+  xy: 116, 2
+  size: 96, 134
+  orig: 110, 147
+  offset: 7, 7
+  index: -1
